@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733075291 source:c:\users\ceper\onedrive\escritorio\estructura de datos\paginacion\main.cpp
+	<iostream>
+	"memoria.h"
+
+1733075161 c:\users\ceper\onedrive\escritorio\estructura de datos\paginacion\memoria.h
+	<iostream>
+	<vector>
+	<climits>
+
+1733075291 source:c:\users\ceper\onedrive\escritorio\estructura de datos\paginacion\memoria.cpp
+	"memoria.h"
+
